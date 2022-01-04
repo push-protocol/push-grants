@@ -1,4 +1,4 @@
-# epns-grant
+# Ethereum Push Noitifcation Grants, or EPNG docs live here.
 
 This page will serve only as a reference to important docs.
 
