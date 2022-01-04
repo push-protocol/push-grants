@@ -4,8 +4,13 @@
 1. **Project Name**
 2. **Email**
 3. **About You** \
-*Intro and background of those involved. Please link twitter account of individuals and project as well.*
-4. **Proposal Category**
+*Intro and background of those involved. Please link twitter accounts and choose preferred contact method below.* \
+- Email
+- Twitter
+- Discord (please join EPNS server - https://discord.gg/UQF7tHrV9Q)
+4. **Project TL:DR** \
+*Quick pitch summarizing the proposal in 2-3 sentences.*
+5. **Proposal Category** \
 - Defi
 - NFT
 - DAO
@@ -13,16 +18,17 @@
 - Marketing
 - Educational
 - Gaming
-- Other
+- Other \
 *Explain*
-5. **Project Overview** \
+6. **Project Overview** \
 *Describe the project in detail. What is the work that needs done and what's potentially already finished? What's the timeline for completion on the different tasks? How will the work be delegated among the team? What costs are involved?*
-6. **Value Proposition to EPNS** \
+7. **Value Proposition to EPNS** \
 *What are the benefits to the EPNS community for investing in this proposal?*
-7. **Amount Requested** \
+8. **Funding Requested** \
 *Figure should be in $PUSH tokens*
 9. **Milestones** \
 *These need to be specific and a timeline set for the completion of each step. Funding will often be tied to the agreed-upon steps and timeline set here.*
-9. **Relevant Links** \
-*If applicable, please share links relevant to your project (e.g., website, Twitter, GitHub)*
-
+10. **Relevant Links & Attachments** \
+*If applicable, please share applicable links to your project (e.g., website, Twitter, GitHub)*
+11. **Referral** \
+*Did someone from EPNS, or any of our friends refer you here?*
