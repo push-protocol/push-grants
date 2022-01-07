@@ -28,7 +28,9 @@
 *Figure should be in $PUSH tokens*
 9. **Milestones** \
 *These need to be specific and a timeline set for the completion of each step. Funding will often be tied to the agreed-upon steps and timeline set here.*
-10. **Relevant Links & Attachments** \
+10. **Wallet Address** \
+*Payments will be made in $PUSH token on mainnet.*
+11. **Relevant Links & Attachments** \
 *If applicable, please share applicable links to your project (e.g., website, Twitter, GitHub)*
-11. **Referral** \
+12. **Referral** \
 *Did someone from EPNS, or any of our friends refer you here?*
