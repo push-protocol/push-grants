@@ -4,13 +4,13 @@
 1. **Project Name**
 2. **Email**
 3. **About You** \
-*Intro and background of those involved. Please link twitter accounts and choose preferred contact method below.* \
+*Intro and background of those involved. Please link twitter accounts and choose preferred contact method below.*
 - Email
 - Twitter
 - Discord (please join EPNS server - https://discord.gg/UQF7tHrV9Q)
 4. **Project TL:DR** \
 *Quick pitch summarizing the proposal in 2-3 sentences.*
-5. **Proposal Category** \
+5. **Proposal Category**
 - Defi
 - NFT
 - DAO
