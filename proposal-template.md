@@ -11,6 +11,7 @@
 - Discord (please join EPNS server - https://discord.gg/UQF7tHrV9Q)
 4. **Project TL:DR** \
 *Quick pitch summarizing the proposal in 2-3 sentences.*
+
 5. **Proposal Category**
 - Defi
 - NFT
