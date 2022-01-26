@@ -1,4 +1,4 @@
-# EPNS Grant Proposal Application
+# Push Grant Program Application
 ## Use this template as referance to prepare your grant application.
 📑 Copy/paste the questions here, remove all in **italics** and please fill in your info below each item. There will be open feedback period where the proposal might need changes so don't stress about making it perfect. 
 
