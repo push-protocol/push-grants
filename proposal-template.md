@@ -29,7 +29,7 @@
 8. **Funding Requested** \
 *Figure should be in $PUSH tokens*
 9. **Milestones** \
-*These need to be specific and a timeline set for the completion of each step. Funding will often be tied to the agreed-upon steps and timeline set here.*
+*These need to be specific, quantifiable, and a timeline set for the completion of each step. Funding will be tied to the agreed-upon steps, the timeline set here, and the verification of the milestone goals.*
 10. **Wallet Address** \
 *Payments will be made in $PUSH token on mainnet.*
 11. **Relevant Links & Attachments** \
